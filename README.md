@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning/working on  C++ Projects.<br>🎯 Goals: Becoming a better Coder every day!<br><br>Here you can find my journey of becoming a software developer from my first projects like libft, to bigger ones like cub3D where i created my own raycaster.</p>
+<p align="left">📚 I'm currently learning/working on  C++ Projects.<br>🎯 Goals:- Becoming a better Human every day!<br><br><br>Here you can find my journey of becoming a software developer from my first projects like libft, to bigger ones like cub3D where i created my own raycaster.</p>
 
 ###
 
