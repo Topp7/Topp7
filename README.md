@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Soeren and I'm a student @ 42 Heilbronn, from Germany.</p>
+<p align="left">My name is Sören and I'm a student @ 42 Heilbronn, from Germany.</p>
 
 ###
 
